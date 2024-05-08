@@ -269,10 +269,10 @@ namespace $safeprojectname$ {
 			this->radioButton4->AutoSize = true;
 			this->radioButton4->Location = System::Drawing::Point(22, 119);
 			this->radioButton4->Name = L"radioButton4";
-			this->radioButton4->Size = System::Drawing::Size(85, 17);
+			this->radioButton4->Size = System::Drawing::Size(64, 17);
 			this->radioButton4->TabIndex = 8;
 			this->radioButton4->TabStop = true;
-			this->radioButton4->Text = L"radioButton4";
+			this->radioButton4->Text = L"Ответ 1";
 			this->radioButton4->UseVisualStyleBackColor = true;
 			this->radioButton4->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton4_MouseCaptureChanged);
 			// 
@@ -282,10 +282,10 @@ namespace $safeprojectname$ {
 			this->radioButton5->AutoSize = true;
 			this->radioButton5->Location = System::Drawing::Point(113, 119);
 			this->radioButton5->Name = L"radioButton5";
-			this->radioButton5->Size = System::Drawing::Size(85, 17);
+			this->radioButton5->Size = System::Drawing::Size(64, 17);
 			this->radioButton5->TabIndex = 7;
 			this->radioButton5->TabStop = true;
-			this->radioButton5->Text = L"radioButton5";
+			this->radioButton5->Text = L"Ответ 2";
 			this->radioButton5->UseVisualStyleBackColor = true;
 			this->radioButton5->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton5_MouseCaptureChanged);
 			// 
@@ -295,10 +295,10 @@ namespace $safeprojectname$ {
 			this->radioButton6->AutoSize = true;
 			this->radioButton6->Location = System::Drawing::Point(204, 119);
 			this->radioButton6->Name = L"radioButton6";
-			this->radioButton6->Size = System::Drawing::Size(85, 17);
+			this->radioButton6->Size = System::Drawing::Size(64, 17);
 			this->radioButton6->TabIndex = 6;
 			this->radioButton6->TabStop = true;
-			this->radioButton6->Text = L"radioButton6";
+			this->radioButton6->Text = L"Ответ 3";
 			this->radioButton6->UseVisualStyleBackColor = true;
 			this->radioButton6->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton6_MouseCaptureChanged);
 			// 
@@ -317,10 +317,10 @@ namespace $safeprojectname$ {
 			this->radioButton3->AutoSize = true;
 			this->radioButton3->Location = System::Drawing::Point(204, 50);
 			this->radioButton3->Name = L"radioButton3";
-			this->radioButton3->Size = System::Drawing::Size(85, 17);
+			this->radioButton3->Size = System::Drawing::Size(64, 17);
 			this->radioButton3->TabIndex = 4;
 			this->radioButton3->TabStop = true;
-			this->radioButton3->Text = L"radioButton3";
+			this->radioButton3->Text = L"Ответ 3";
 			this->radioButton3->UseVisualStyleBackColor = true;
 			this->radioButton3->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton3_MouseCaptureChanged);
 			// 
@@ -330,10 +330,10 @@ namespace $safeprojectname$ {
 			this->radioButton2->AutoSize = true;
 			this->radioButton2->Location = System::Drawing::Point(113, 50);
 			this->radioButton2->Name = L"radioButton2";
-			this->radioButton2->Size = System::Drawing::Size(85, 17);
+			this->radioButton2->Size = System::Drawing::Size(64, 17);
 			this->radioButton2->TabIndex = 3;
 			this->radioButton2->TabStop = true;
-			this->radioButton2->Text = L"radioButton2";
+			this->radioButton2->Text = L"Ответ 2";
 			this->radioButton2->UseVisualStyleBackColor = true;
 			this->radioButton2->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton2_MouseCaptureChanged);
 			// 
@@ -343,10 +343,10 @@ namespace $safeprojectname$ {
 			this->radioButton1->AutoSize = true;
 			this->radioButton1->Location = System::Drawing::Point(22, 50);
 			this->radioButton1->Name = L"radioButton1";
-			this->radioButton1->Size = System::Drawing::Size(85, 17);
+			this->radioButton1->Size = System::Drawing::Size(64, 17);
 			this->radioButton1->TabIndex = 2;
 			this->radioButton1->TabStop = true;
-			this->radioButton1->Text = L"radioButton1";
+			this->radioButton1->Text = L"Ответ 1";
 			this->radioButton1->UseVisualStyleBackColor = true;
 			this->radioButton1->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton1_MouseCaptureChanged);
 			// 
@@ -394,10 +394,10 @@ namespace $safeprojectname$ {
 			this->radioButton7->AutoSize = true;
 			this->radioButton7->Location = System::Drawing::Point(18, 66);
 			this->radioButton7->Name = L"radioButton7";
-			this->radioButton7->Size = System::Drawing::Size(85, 17);
+			this->radioButton7->Size = System::Drawing::Size(64, 17);
 			this->radioButton7->TabIndex = 16;
 			this->radioButton7->TabStop = true;
-			this->radioButton7->Text = L"radioButton7";
+			this->radioButton7->Text = L"Ответ 1";
 			this->radioButton7->UseVisualStyleBackColor = true;
 			this->radioButton7->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton7_MouseCaptureChanged);
 			// 
@@ -407,10 +407,10 @@ namespace $safeprojectname$ {
 			this->radioButton8->AutoSize = true;
 			this->radioButton8->Location = System::Drawing::Point(109, 66);
 			this->radioButton8->Name = L"radioButton8";
-			this->radioButton8->Size = System::Drawing::Size(85, 17);
+			this->radioButton8->Size = System::Drawing::Size(64, 17);
 			this->radioButton8->TabIndex = 15;
 			this->radioButton8->TabStop = true;
-			this->radioButton8->Text = L"radioButton8";
+			this->radioButton8->Text = L"Ответ 2";
 			this->radioButton8->UseVisualStyleBackColor = true;
 			this->radioButton8->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton8_MouseCaptureChanged);
 			// 
@@ -420,10 +420,10 @@ namespace $safeprojectname$ {
 			this->radioButton9->AutoSize = true;
 			this->radioButton9->Location = System::Drawing::Point(200, 66);
 			this->radioButton9->Name = L"radioButton9";
-			this->radioButton9->Size = System::Drawing::Size(85, 17);
+			this->radioButton9->Size = System::Drawing::Size(64, 17);
 			this->radioButton9->TabIndex = 14;
 			this->radioButton9->TabStop = true;
-			this->radioButton9->Text = L"radioButton9";
+			this->radioButton9->Text = L"Ответ 3";
 			this->radioButton9->UseVisualStyleBackColor = true;
 			this->radioButton9->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton9_MouseCaptureChanged);
 			// 
@@ -442,10 +442,10 @@ namespace $safeprojectname$ {
 			this->radioButton10->AutoSize = true;
 			this->radioButton10->Location = System::Drawing::Point(12, 130);
 			this->radioButton10->Name = L"radioButton10";
-			this->radioButton10->Size = System::Drawing::Size(91, 17);
+			this->radioButton10->Size = System::Drawing::Size(64, 17);
 			this->radioButton10->TabIndex = 12;
 			this->radioButton10->TabStop = true;
-			this->radioButton10->Text = L"radioButton10";
+			this->radioButton10->Text = L"Ответ 1";
 			this->radioButton10->UseVisualStyleBackColor = true;
 			this->radioButton10->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton10_MouseCaptureChanged);
 			// 
@@ -455,10 +455,10 @@ namespace $safeprojectname$ {
 			this->radioButton11->AutoSize = true;
 			this->radioButton11->Location = System::Drawing::Point(109, 130);
 			this->radioButton11->Name = L"radioButton11";
-			this->radioButton11->Size = System::Drawing::Size(91, 17);
+			this->radioButton11->Size = System::Drawing::Size(64, 17);
 			this->radioButton11->TabIndex = 11;
 			this->radioButton11->TabStop = true;
-			this->radioButton11->Text = L"radioButton11";
+			this->radioButton11->Text = L"Ответ 2";
 			this->radioButton11->UseVisualStyleBackColor = true;
 			this->radioButton11->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton11_MouseCaptureChanged);
 			// 
@@ -468,10 +468,10 @@ namespace $safeprojectname$ {
 			this->radioButton12->AutoSize = true;
 			this->radioButton12->Location = System::Drawing::Point(200, 130);
 			this->radioButton12->Name = L"radioButton12";
-			this->radioButton12->Size = System::Drawing::Size(91, 17);
+			this->radioButton12->Size = System::Drawing::Size(64, 17);
 			this->radioButton12->TabIndex = 10;
 			this->radioButton12->TabStop = true;
-			this->radioButton12->Text = L"radioButton12";
+			this->radioButton12->Text = L"Ответ 3";
 			this->radioButton12->UseVisualStyleBackColor = true;
 			this->radioButton12->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton12_MouseCaptureChanged);
 			// 
@@ -519,10 +519,10 @@ namespace $safeprojectname$ {
 			this->radioButton13->AutoSize = true;
 			this->radioButton13->Location = System::Drawing::Point(22, 60);
 			this->radioButton13->Name = L"radioButton13";
-			this->radioButton13->Size = System::Drawing::Size(91, 17);
+			this->radioButton13->Size = System::Drawing::Size(64, 17);
 			this->radioButton13->TabIndex = 16;
 			this->radioButton13->TabStop = true;
-			this->radioButton13->Text = L"radioButton13";
+			this->radioButton13->Text = L"Ответ 1";
 			this->radioButton13->UseVisualStyleBackColor = true;
 			this->radioButton13->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton13_MouseCaptureChanged);
 			// 
@@ -532,10 +532,10 @@ namespace $safeprojectname$ {
 			this->radioButton14->AutoSize = true;
 			this->radioButton14->Location = System::Drawing::Point(113, 60);
 			this->radioButton14->Name = L"radioButton14";
-			this->radioButton14->Size = System::Drawing::Size(91, 17);
+			this->radioButton14->Size = System::Drawing::Size(64, 17);
 			this->radioButton14->TabIndex = 15;
 			this->radioButton14->TabStop = true;
-			this->radioButton14->Text = L"radioButton14";
+			this->radioButton14->Text = L"Ответ 2";
 			this->radioButton14->UseVisualStyleBackColor = true;
 			this->radioButton14->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton14_MouseCaptureChanged);
 			// 
@@ -545,10 +545,10 @@ namespace $safeprojectname$ {
 			this->radioButton15->AutoSize = true;
 			this->radioButton15->Location = System::Drawing::Point(204, 60);
 			this->radioButton15->Name = L"radioButton15";
-			this->radioButton15->Size = System::Drawing::Size(91, 17);
+			this->radioButton15->Size = System::Drawing::Size(64, 17);
 			this->radioButton15->TabIndex = 14;
 			this->radioButton15->TabStop = true;
-			this->radioButton15->Text = L"radioButton15";
+			this->radioButton15->Text = L"Ответ 3";
 			this->radioButton15->UseVisualStyleBackColor = true;
 			this->radioButton15->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton15_MouseCaptureChanged);
 			// 
@@ -567,10 +567,10 @@ namespace $safeprojectname$ {
 			this->radioButton16->AutoSize = true;
 			this->radioButton16->Location = System::Drawing::Point(22, 126);
 			this->radioButton16->Name = L"radioButton16";
-			this->radioButton16->Size = System::Drawing::Size(91, 17);
+			this->radioButton16->Size = System::Drawing::Size(64, 17);
 			this->radioButton16->TabIndex = 12;
 			this->radioButton16->TabStop = true;
-			this->radioButton16->Text = L"radioButton16";
+			this->radioButton16->Text = L"Ответ 1";
 			this->radioButton16->UseVisualStyleBackColor = true;
 			this->radioButton16->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton16_MouseCaptureChanged);
 			// 
@@ -580,10 +580,10 @@ namespace $safeprojectname$ {
 			this->radioButton17->AutoSize = true;
 			this->radioButton17->Location = System::Drawing::Point(113, 126);
 			this->radioButton17->Name = L"radioButton17";
-			this->radioButton17->Size = System::Drawing::Size(91, 17);
+			this->radioButton17->Size = System::Drawing::Size(64, 17);
 			this->radioButton17->TabIndex = 11;
 			this->radioButton17->TabStop = true;
-			this->radioButton17->Text = L"radioButton17";
+			this->radioButton17->Text = L"Ответ 2";
 			this->radioButton17->UseVisualStyleBackColor = true;
 			this->radioButton17->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton17_MouseCaptureChanged);
 			// 
@@ -593,10 +593,10 @@ namespace $safeprojectname$ {
 			this->radioButton18->AutoSize = true;
 			this->radioButton18->Location = System::Drawing::Point(204, 126);
 			this->radioButton18->Name = L"radioButton18";
-			this->radioButton18->Size = System::Drawing::Size(91, 17);
+			this->radioButton18->Size = System::Drawing::Size(64, 17);
 			this->radioButton18->TabIndex = 10;
 			this->radioButton18->TabStop = true;
-			this->radioButton18->Text = L"radioButton18";
+			this->radioButton18->Text = L"Ответ 3";
 			this->radioButton18->UseVisualStyleBackColor = true;
 			this->radioButton18->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton18_MouseCaptureChanged);
 			// 
@@ -644,10 +644,10 @@ namespace $safeprojectname$ {
 			this->radioButton19->AutoSize = true;
 			this->radioButton19->Location = System::Drawing::Point(22, 67);
 			this->radioButton19->Name = L"radioButton19";
-			this->radioButton19->Size = System::Drawing::Size(91, 17);
+			this->radioButton19->Size = System::Drawing::Size(64, 17);
 			this->radioButton19->TabIndex = 16;
 			this->radioButton19->TabStop = true;
-			this->radioButton19->Text = L"radioButton19";
+			this->radioButton19->Text = L"Ответ 1";
 			this->radioButton19->UseVisualStyleBackColor = true;
 			this->radioButton19->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton19_MouseCaptureChanged);
 			// 
@@ -657,10 +657,10 @@ namespace $safeprojectname$ {
 			this->radioButton20->AutoSize = true;
 			this->radioButton20->Location = System::Drawing::Point(113, 67);
 			this->radioButton20->Name = L"radioButton20";
-			this->radioButton20->Size = System::Drawing::Size(91, 17);
+			this->radioButton20->Size = System::Drawing::Size(64, 17);
 			this->radioButton20->TabIndex = 15;
 			this->radioButton20->TabStop = true;
-			this->radioButton20->Text = L"radioButton20";
+			this->radioButton20->Text = L"Ответ 2";
 			this->radioButton20->UseVisualStyleBackColor = true;
 			this->radioButton20->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton20_MouseCaptureChanged);
 			// 
@@ -670,10 +670,10 @@ namespace $safeprojectname$ {
 			this->radioButton21->AutoSize = true;
 			this->radioButton21->Location = System::Drawing::Point(204, 67);
 			this->radioButton21->Name = L"radioButton21";
-			this->radioButton21->Size = System::Drawing::Size(91, 17);
+			this->radioButton21->Size = System::Drawing::Size(64, 17);
 			this->radioButton21->TabIndex = 14;
 			this->radioButton21->TabStop = true;
-			this->radioButton21->Text = L"radioButton21";
+			this->radioButton21->Text = L"Ответ 3";
 			this->radioButton21->UseVisualStyleBackColor = true;
 			this->radioButton21->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton21_MouseCaptureChanged);
 			// 
@@ -692,10 +692,10 @@ namespace $safeprojectname$ {
 			this->radioButton22->AutoSize = true;
 			this->radioButton22->Location = System::Drawing::Point(22, 133);
 			this->radioButton22->Name = L"radioButton22";
-			this->radioButton22->Size = System::Drawing::Size(91, 17);
+			this->radioButton22->Size = System::Drawing::Size(64, 17);
 			this->radioButton22->TabIndex = 12;
 			this->radioButton22->TabStop = true;
-			this->radioButton22->Text = L"radioButton22";
+			this->radioButton22->Text = L"Ответ 1";
 			this->radioButton22->UseVisualStyleBackColor = true;
 			this->radioButton22->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton22_MouseCaptureChanged);
 			// 
@@ -705,10 +705,10 @@ namespace $safeprojectname$ {
 			this->radioButton23->AutoSize = true;
 			this->radioButton23->Location = System::Drawing::Point(113, 133);
 			this->radioButton23->Name = L"radioButton23";
-			this->radioButton23->Size = System::Drawing::Size(91, 17);
+			this->radioButton23->Size = System::Drawing::Size(64, 17);
 			this->radioButton23->TabIndex = 11;
 			this->radioButton23->TabStop = true;
-			this->radioButton23->Text = L"radioButton23";
+			this->radioButton23->Text = L"Ответ 2";
 			this->radioButton23->UseVisualStyleBackColor = true;
 			this->radioButton23->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton23_MouseCaptureChanged);
 			// 
@@ -718,10 +718,10 @@ namespace $safeprojectname$ {
 			this->radioButton24->AutoSize = true;
 			this->radioButton24->Location = System::Drawing::Point(204, 133);
 			this->radioButton24->Name = L"radioButton24";
-			this->radioButton24->Size = System::Drawing::Size(91, 17);
+			this->radioButton24->Size = System::Drawing::Size(64, 17);
 			this->radioButton24->TabIndex = 10;
 			this->radioButton24->TabStop = true;
-			this->radioButton24->Text = L"radioButton24";
+			this->radioButton24->Text = L"Ответ 3";
 			this->radioButton24->UseVisualStyleBackColor = true;
 			this->radioButton24->MouseCaptureChanged += gcnew System::EventHandler(this, &MyForm::radioButton24_MouseCaptureChanged);
 			// 
